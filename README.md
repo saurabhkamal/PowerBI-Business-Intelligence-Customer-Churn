@@ -54,7 +54,7 @@
 10. Average extra data charges for customers who are on an unlimited data plan and consume 10 or more gigabytes:
 -	31.19
 
-### Some of the formulas used in Data Analysis Expressions (DAX):
+### Data Analysis Expressions (DAX):
 1. Number of Customers = COUNT('Datalabel - Data'[Customer ID]
 2. Number of Unique Customers = DISTINCTCOUNT('Databel - Data'[Customer ID])
 3. Churned = IF('Databel - Data'[Churn Label] = "Yes", 1, 0)
