@@ -10,4 +10,10 @@
 - There are multiple ways to calculate churn
       -	Varies by industry and revenue model.
       -	An e-commerce platform could e.g. define a churner as someone who hasn’t made a purchase in the last 12 months.
+
+- Importance of churn rate:
+      - Allowing companies to measure competitiveness.
+      - It tells you exactly why customers are leaving.
+      - It is a rate at which customers stop doing business with an entity.
+
   
