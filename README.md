@@ -4,8 +4,7 @@
 ### Key Features
 1. The churn, also known as the attrition rate or customer churn, is the rate at which customers stop doing business with an entity.
 2. Churn rate = customers lost / total number of customers
-
-  e.g. Churn rate = 10 / 100 = 10%
+- e.g. Churn rate = 10 / 100 = 10%
 
 3. There are multiple ways to calculate churn<br>
 - Varies by industry and revenue model.
@@ -15,5 +14,11 @@
 - Allowing companies to measure competitiveness.
 - It tells you exactly why customers are leaving.
 - It is a rate at which customers stop doing business with an entity.
+
+5. The Data:
+- Dataset from Telecom Provider
+-	One big table containing 29 columns
+-	One row per customer
+
 
   
