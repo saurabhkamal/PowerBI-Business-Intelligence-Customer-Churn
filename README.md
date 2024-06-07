@@ -1,4 +1,4 @@
-# PowerBI-Telecom-Customer-Churn
+# PowerBI-Customer-Churn
 ## Customer Churn Analyzed Using Power BI
 
 ### Key Features
