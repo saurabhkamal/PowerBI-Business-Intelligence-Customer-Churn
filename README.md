@@ -71,6 +71,11 @@
 13. Avg Extra Data Charges = SUM('Databel - Data'[Extra Data Charges]) / [Number of Customers]
 
 
+# :octocat:Dashboard
+![image](https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Customer-Churn/assets/39690914/d1b808f3-0a6f-4994-982b-c428c3f9dc09)
+
+![image](https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Customer-Churn/assets/39690914/c9385e18-211c-411c-a8a3-d2280cec5df7)
+
 
 
 
