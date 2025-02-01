@@ -1,5 +1,4 @@
-# PowerBI-Customer-Churn
-## Customer Churn Analyzed Using Power BI
+# Business Intelligence Customer Churn
 
 ### Key Features
 1. The churn, also known as the attrition rate or customer churn, is the rate at which customers stop doing business with an entity.
